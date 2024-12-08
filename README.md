@@ -14,6 +14,7 @@
 ## 動作確認済みソフト
 
 - MuseScore
+- Dorico
 
 ※ 上記リストに載っていないソフトで使用できた方は [X(Twitter) @SuzuTomo2001](https://x.com/SuzuTomo2001) のDMまで知らせていただけると幸いです。
 
